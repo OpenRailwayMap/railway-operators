@@ -6,6 +6,7 @@ CH,SNCF,SNCF Réseau
 CH,SOB,Schweizerische Südostbahn AG
 CH,ST,Sursee-Triengen-Bahn AG
 DE,AVG,Albtal-Verkehrs-Gesellschaft mbH
+DE,BE,BE Netz GmbH
 DE,BRE,Bayerische Regionaleisenbahn GmbH
 DE,bremenports,bremenports GmbH & Co. KG
 DE,BSAG,Bremer Straßenbahn AG
@@ -13,19 +14,28 @@ DE,BSM,Bahnen der Stadt Monheim GmbH
 DE,BTE,Bremen-Thedinghauser Eisenbahn GmbH
 DE,CVAG,Chemnitzer Verkehrs-AG
 DE,DB,DB Netz AG
+DE,DBG,Döllnitzbahn GmbH
 DE,DHE,Delmenhorst-Harpstedter Eisenbahn GmbH
 DE,DRE,Deutsche Regionaleisenbahn GmbH
 DE,DVB,Dresdner Verkehrsbetriebe AG
+DE,EEB,Emsländische Eisenbahn GmbH
+DE,EVB,Eisenbahnen und Verkehrsbetriebe Elbe-Weser GmbH
 DE,EVS,EVS EUREGIO Verkehrsschienennetz GmbH
+DE,Fels Netz,Fels Netz GmbH
+DE,HLB,HLB Basis AG
 DE,HSB,Harzer Schmalspurbahnen GmbH
 DE,hvle,Havelländische Eisenbahn AG
 DE,KSW,KSW Kreisbahn Siegen-Wittgenstein GmbH
 DE,LWS,Lappwaldbahn Service GmbH
 DE,MKB,Mindener Kreisbahnen GmbH
 DE,NIAG,Niederrheinische Verkehrsbetriebe AG
+DE,NNRail,Norddeutsche Naturstein Rail GmbH
 DE,NRE,Nossen-Riesaer Eisenbahn-Compagnie GmbH
+DE,Öchsle,Öchsle Bahn AG
 DE,OHE,Osthannoversche Eisenbahnen AG
 DE,RBE,Regiobahn GmbH
+DE,RIG,RegioInfra Gesellschaft mbH & Co. KG
+DE,RIN,Regio Infra Nord-Ost GmbH & Co. KG
 DE,RISS,Regio Infra Service Sachsen GmbH
 DE,RLG,Regionalverkehr Ruhr-Lippe GmbH
 DE,RNV,Rhein-Neckar-Verkehr GmbH
@@ -40,7 +50,10 @@ DE,TWE,Teutoburger Wald Eisenbahn GmbH
 DE,UBB,Usedomer Bäderbahn GmbH
 DE,VAG,Freiburger Verkehrs AG
 DE,VPS,VPS Infrastruktur GmbH
+DE,WEG,Württembergische Eisenbahn-Gesellschaft mbH
 DE,WLE,Westfälische Landes-Eisenbahn GmbH
+DE,ZIG,Zörbiger Infrastrukturgesellschaft mbH
+DE,ZRB,ZossenRail Betriebsgesellschaft mbH
 FR,SNCF,SNCF Réseau
 IT,RhB,Rhätische Bahn AG
 LU,CFL,Société Nationale des Chemins de Fer Luxembourgeois
