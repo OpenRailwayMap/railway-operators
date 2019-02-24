@@ -5,6 +5,7 @@ CH,RhB,Rhätische Bahn AG
 CH,SNCF,SNCF Réseau
 CH,SOB,Schweizerische Südostbahn AG
 CH,ST,Sursee-Triengen-Bahn AG
+DE,AKN,AKN Eisenbahn GmbH
 DE,AVG,Albtal-Verkehrs-Gesellschaft mbH
 DE,BE,BE Netz GmbH
 DE,BRE,Bayerische Regionaleisenbahn GmbH
@@ -12,6 +13,7 @@ DE,bremenports,bremenports GmbH & Co. KG
 DE,BSAG,Bremer Straßenbahn AG
 DE,BSM,Bahnen der Stadt Monheim GmbH
 DE,BTE,Bremen-Thedinghauser Eisenbahn GmbH
+DE,CBC,City-Bahn Chemnitz GmbH
 DE,CVAG,Chemnitzer Verkehrs-AG
 DE,DB,DB Netz AG
 DE,DBG,Döllnitzbahn GmbH
@@ -22,12 +24,14 @@ DE,EEB,Emsländische Eisenbahn GmbH
 DE,EVB,Eisenbahnen und Verkehrsbetriebe Elbe-Weser GmbH
 DE,EVS,EVS EUREGIO Verkehrsschienennetz GmbH
 DE,Fels Netz,Fels Netz GmbH
+DE,HGK,Häfen und Güterverkehr Köln AG
 DE,HLB,HLB Basis AG
 DE,HSB,Harzer Schmalspurbahnen GmbH
 DE,hvle,Havelländische Eisenbahn AG
 DE,KSW,KSW Kreisbahn Siegen-Wittgenstein GmbH
 DE,LWS,Lappwaldbahn Service GmbH
 DE,MKB,Mindener Kreisbahnen GmbH
+DE,NEB,Niederbarnimer Eisenbahn AG
 DE,NIAG,Niederrheinische Verkehrsbetriebe AG
 DE,NNRail,Norddeutsche Naturstein Rail GmbH
 DE,NRE,Nossen-Riesaer Eisenbahn-Compagnie GmbH
