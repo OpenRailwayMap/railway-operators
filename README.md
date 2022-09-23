@@ -25,7 +25,11 @@ Columns:
 
 Companies operating railway traffic (also known as [Eisenbahnverkehrsunternehmen (EVU)](https://de.wikipedia.org/wiki/Eisenbahnverkehrsunternehmen) in German speaking countries).
 
-_(will be added in future)_
+Columns:
+
+ * `operator_official_name`: The official name of the company including the corporation form.
+ * `operator_short_name`: The short name of this company.
+ * `country`: The [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) two letter country code in upper case. Indicates the country in which the infrastructure operated by this company is located. If a company operates infrastructure in more than one country, there are duplicate entries in the table, one per country.
 
 ## Maintainer
 
